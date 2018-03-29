@@ -1,0 +1,9 @@
+#redis:
+#  connect:
+#    maxTotal: 10
+#    maxIdle: 5
+#    maxWaitMillis: 3000
+#    password: 654321
+#    host: 192.168.1.116
+#    port: 6379
+#    timeOut: 0
